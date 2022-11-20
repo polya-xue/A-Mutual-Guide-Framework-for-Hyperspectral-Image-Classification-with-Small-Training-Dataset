@@ -10,3 +10,8 @@ run main.m
 
 
 ![WechatIMG2173](https://user-images.githubusercontent.com/60961564/202933275-c64e03a6-d8d9-4f39-b3b4-dc813c11d9ce.png)
+The MGF framework
+
+
+![WechatIMG2174](https://user-images.githubusercontent.com/60961564/202933490-498be904-6ac0-4354-b1a0-c9f0d9824770.png)
+Visual illustration of classification. (a) Ground truth on the IP datasets. (b) The mutual guide on the IP datasets. (c) The proposed SMS on the IP datasets. (d) Ground truth on the SA datasets. (e) The mutual guide on the SA datasets. (f) The proposed SMS on the SA datasets.
