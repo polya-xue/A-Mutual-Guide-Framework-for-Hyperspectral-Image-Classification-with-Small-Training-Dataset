@@ -7,3 +7,6 @@ A mutual guide framework (MGF) with two multi-kernels classifier models is propo
 
 Running:
 run main.m
+
+
+![WechatIMG2173](https://user-images.githubusercontent.com/60961564/202933275-c64e03a6-d8d9-4f39-b3b4-dc813c11d9ce.png)
