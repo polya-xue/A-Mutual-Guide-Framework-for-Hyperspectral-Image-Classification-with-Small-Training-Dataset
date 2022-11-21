@@ -18,3 +18,9 @@ The MGF framework
 ![WechatIMG2174](https://user-images.githubusercontent.com/60961564/202933490-498be904-6ac0-4354-b1a0-c9f0d9824770.png)
 
 Visual illustration of classification. (a) Ground truth on the IP datasets. (b) The mutual guide on the IP datasets. (c) The proposed SMS on the IP datasets. (d) Ground truth on the SA datasets. (e) The mutual guide on the SA datasets. (f) The proposed SMS on the SA datasets.
+
+
+
+![WechatIMG2175](https://user-images.githubusercontent.com/60961564/202934022-5ae46a2b-3682-4a92-8bff-b12ba9e4dd2f.png)
+
+Classification accuracy on the IP dataset(%)
