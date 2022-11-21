@@ -1,5 +1,6 @@
 # A-Mutual-Guide-Framework-for-Hyperspectral-Image-Classification-with-Small-Training-Dataset
 Spectral and spatial features dimensionally reduced by  SuperPCA are input to SVM for classification.
+
 paper: https://github.com/polya-xue/A-Mutual-Guide-Framework-for-Hyperspectral-Image-Classification-with-Small-Training-Dataset/blob/main/NECEC_paper.pdf
 
 Abstract:
